@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Pranit Patil! 👋
 
 ## Tableau Developer | Data Analyst | ETL Pipeline Automation & AI Engineer
 
@@ -46,30 +46,39 @@ graph TD
 
 ---
 
-### 📂 Featured Repositories
+### 📂 Consolidated Portfolio Projects
 
-#### 🤖 AI & Agentic Projects
+All of my core portfolio projects are organized and maintained in my main **[Data & AI Portfolio Repository](https://github.com/Code-Falcon001/Data-and-AI-Portfolio)**:
 
-##### 🎙️ [ARIA - Fully Local AI Voice Assistant](https://github.com/[username]/LocalVoiceAssistant)
+#### 🤖 AI & Agentic Workflows
+
+##### 🎙️ [ARIA - Fully Local AI Voice Assistant](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/AI-Projects/LocalVoiceAssistant)
 * A completely offline, real-time voice assistant built with Python, FastAPI, and Electron.
 * **Core Stack**: FastAPI, Electron, `faster-whisper` (STT), Piper TTS, Silero VAD, and Ollama.
 * **Features**: Live glassmorphism UI, barge-in voice interruption, and complete data privacy.
 
-##### 🤖 [CrewAI Multi-Agent Research System](https://github.com/[username]/latest_ai_development)
+##### 🤖 [CrewAI Multi-Agent Research System](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/AI-Projects/latest-ai-development)
 * A collaborative multi-agent AI system designed to perform automated research and generate structured markdown reports.
 * **Core Stack**: Python, crewAI framework, local/remote LLM integrations.
 
 ---
 
-#### 📈 Data & Visualization Projects
+#### ⚙️ Data Engineering & ETL
 
-##### 📊 [Tableau Portfolio App](https://github.com/[username]/Tableau-Portfolio)
+##### 🕷️ [ETL Scraping & Matcher Pipeline](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Data-Automation/Web-Scraping)
+* An automated web scraping pipeline that extracts web data, parses structures, runs skill matching, and outputs cleaned Excel data feeds.
+* **Core Stack**: Python, BeautifulSoup, Pandas.
+
+---
+
+#### 📈 Business Intelligence & Web Portfolios
+
+##### 📊 [Tableau Portfolio App](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Dashboards/Tableau-Portfolio)
 * A web-based Next.js portfolio showcasing dashboard wireframes, design mockups, and embedded Tableau Public visualization links.
 * **Core Stack**: Next.js, React, CSS, Vercel.
 
-##### 🕷️ [ETL Scraping & Matcher Pipeline](https://github.com/[username]/Web-Scraping)
-* An automated web scraping pipeline that extracts web data, parses structures, runs skill matching, and outputs cleaned Excel data feeds.
-* **Core Stack**: Python, BeautifulSoup, Pandas.
+##### 🌐 [Vanilla HTML/JS Portfolio Website](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Websites/portfolio)
+* A clean, sleek custom web portfolio built with Vanilla HTML/CSS/JavaScript.
 
 ---
 
@@ -77,7 +86,7 @@ graph TD
 
 | Stats | Languages |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=dark&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Falcon001&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Falcon001&layout=compact&theme=dark&hide_border=true) |
 
 ---
 
