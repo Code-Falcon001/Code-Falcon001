@@ -77,6 +77,12 @@ All of my core portfolio projects are organized and maintained in my main **[Dat
 * A web-based Next.js portfolio showcasing dashboard wireframes, design mockups, and embedded Tableau Public visualization links.
 * **Core Stack**: Next.js, React, CSS, Vercel.
 
+##### 📊 [Buyer PO Dashboard (Power BI)](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Dashboards/Power-BI-Projects/Buyer%20PO%20Dashboards)
+* A Power BI dashboard tracking purchase orders, buyer activity, and supplier timelines.
+
+##### 📊 [Sales Dashboard (Power BI)](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Dashboards/Sales-Dashboard-Power-BI)
+* A multi-year sales performance and delivery timing dashboard built with Power BI.
+
 ##### 🌐 [Vanilla HTML/JS Portfolio Website](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Websites/portfolio)
 * A clean, sleek custom web portfolio built with Vanilla HTML/CSS/JavaScript.
 
