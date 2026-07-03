@@ -56,6 +56,8 @@ My core portfolio projects are grouped into 4 specialized repositories on my acc
 
 #### ⚙️ [Data Automation & ETL](https://github.com/Code-Falcon001/Data-Automation)
 * 🕷️ **[ETL Scraping & Matcher Pipeline](https://github.com/Code-Falcon001/Data-Automation/tree/main/Web-Scraping)**: An automated web scraping pipeline that extracts web data, parses structures, runs skill matching, and outputs cleaned Excel data feeds.
+* 📊 **[Excel Consolidation Engine](https://github.com/Code-Falcon001/Data-Automation/tree/main/excel-consolidation-engine)**: A config-driven Excel VBA consolidation engine designed to merge multiple sheets automatically.
+* 🕵️‍♂️ **[Excel Change Tracker (v1 & v2)](https://github.com/Code-Falcon001/Data-Automation/tree/main/excel-change-tracker-v2)**: HTML/VBA utility engines designed to track modifications in Excel workbooks.
 
 #### 📊 [BI Dashboards & Visualizations](https://github.com/Code-Falcon001/Dashboards)
 * 📈 **[Tableau Portfolio App](https://github.com/Code-Falcon001/Dashboards/tree/main/Tableau-Portfolio)**: A web-based Next.js portfolio showcasing dashboard wireframes, design mockups, and embedded Tableau Public visualization links.
