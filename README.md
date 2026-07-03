@@ -46,45 +46,24 @@ graph TD
 
 ---
 
-### 📂 Consolidated Portfolio Projects
+### 📂 Category Portfolio Repositories
 
-All of my core portfolio projects are organized and maintained in my main **[Data & AI Portfolio Repository](https://github.com/Code-Falcon001/Data-and-AI-Portfolio)**:
+My core portfolio projects are grouped into 4 specialized repositories on my account:
 
-#### 🤖 AI & Agentic Workflows
+#### 🤖 [AI & Agentic Projects](https://github.com/Code-Falcon001/AI-Projects)
+* 🎙️ **[ARIA - Fully Local AI Voice Assistant](https://github.com/Code-Falcon001/AI-Projects/tree/main/LocalVoiceAssistant)**: A completely offline, real-time voice assistant built with Python, FastAPI, and Electron.
+* 🤖 **[CrewAI Multi-Agent Research System](https://github.com/Code-Falcon001/AI-Projects/tree/main/latest-ai-development)**: A collaborative multi-agent AI system designed to perform automated research and generate structured markdown reports.
 
-##### 🎙️ [ARIA - Fully Local AI Voice Assistant](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/AI-Projects/LocalVoiceAssistant)
-* A completely offline, real-time voice assistant built with Python, FastAPI, and Electron.
-* **Core Stack**: FastAPI, Electron, `faster-whisper` (STT), Piper TTS, Silero VAD, and Ollama.
-* **Features**: Live glassmorphism UI, barge-in voice interruption, and complete data privacy.
+#### ⚙️ [Data Automation & ETL](https://github.com/Code-Falcon001/Data-Automation)
+* 🕷️ **[ETL Scraping & Matcher Pipeline](https://github.com/Code-Falcon001/Data-Automation/tree/main/Web-Scraping)**: An automated web scraping pipeline that extracts web data, parses structures, runs skill matching, and outputs cleaned Excel data feeds.
 
-##### 🤖 [CrewAI Multi-Agent Research System](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/AI-Projects/latest-ai-development)
-* A collaborative multi-agent AI system designed to perform automated research and generate structured markdown reports.
-* **Core Stack**: Python, crewAI framework, local/remote LLM integrations.
+#### 📊 [BI Dashboards & Visualizations](https://github.com/Code-Falcon001/Dashboards)
+* 📈 **[Tableau Portfolio App](https://github.com/Code-Falcon001/Dashboards/tree/main/Tableau-Portfolio)**: A web-based Next.js portfolio showcasing dashboard wireframes, design mockups, and embedded Tableau Public visualization links.
+* 📊 **[Buyer PO Dashboard (Power BI)](https://github.com/Code-Falcon001/Dashboards/tree/main/Power-BI-Projects/Buyer%20PO%20Dashboards)**: A Power BI dashboard tracking purchase orders, buyer activity, and supplier timelines.
+* 📊 **[Sales Dashboard (Power BI)](https://github.com/Code-Falcon001/Dashboards/tree/main/Sales-Dashboard-Power-BI)**: A multi-year sales performance and delivery timing dashboard built with Power BI.
 
----
-
-#### ⚙️ Data Engineering & ETL
-
-##### 🕷️ [ETL Scraping & Matcher Pipeline](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Data-Automation/Web-Scraping)
-* An automated web scraping pipeline that extracts web data, parses structures, runs skill matching, and outputs cleaned Excel data feeds.
-* **Core Stack**: Python, BeautifulSoup, Pandas.
-
----
-
-#### 📈 Business Intelligence & Web Portfolios
-
-##### 📊 [Tableau Portfolio App](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Dashboards/Tableau-Portfolio)
-* A web-based Next.js portfolio showcasing dashboard wireframes, design mockups, and embedded Tableau Public visualization links.
-* **Core Stack**: Next.js, React, CSS, Vercel.
-
-##### 📊 [Buyer PO Dashboard (Power BI)](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Dashboards/Power-BI-Projects/Buyer%20PO%20Dashboards)
-* A Power BI dashboard tracking purchase orders, buyer activity, and supplier timelines.
-
-##### 📊 [Sales Dashboard (Power BI)](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Dashboards/Sales-Dashboard-Power-BI)
-* A multi-year sales performance and delivery timing dashboard built with Power BI.
-
-##### 🌐 [Vanilla HTML/JS Portfolio Website](https://github.com/Code-Falcon001/Data-and-AI-Portfolio/tree/main/Websites/portfolio)
-* A clean, sleek custom web portfolio built with Vanilla HTML/CSS/JavaScript.
+#### 🌐 [Websites & Frontend](https://github.com/Code-Falcon001/Websites)
+* 💻 **[Vanilla HTML/JS Portfolio Website](https://github.com/Code-Falcon001/Websites/tree/main/portfolio)**: A clean, sleek custom web portfolio built with Vanilla HTML/CSS/JavaScript.
 
 ---
 
